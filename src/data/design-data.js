@@ -53,79 +53,79 @@ export const explore_data = [
 
 export const profiles_data = [
   {
-    img:design01
-  },
-  {
-    img:design07
-  },
-  {
     img:design02
-  },
-  {
-    img:design08
   },
   {
     img:design03
   },
   {
-    img:design09
-  },
-  {
     img:design04
-  },
-  {
-    img:design10
   },
   {
     img:design05
   },
   {
-    img:design11
-  },
-  {
     img:design06
   },
   {
-    img:design01
+    img:design07
+  },
+  {
+    img:design08
+  },
+  {
+    img:design10
+  },
+  {
+    img:design09
+  },
+  {
+    img:design10
+  },
+  {
+    img:design11
+  },
+  {
+    img:design05
   },
  
 ];
 export const shops_data = [
   {
-    img:design01
-  },
-  {
-    img:design07
-  },
-  {
-    img:design02
+    img:design09
   },
   {
     img:design08
   },
   {
-    img:design03
-  },
-  {
-    img:design09
-  },
-  {
-    img:design04
-  },
-  {
-    img:design10
-  },
-  {
-    img:design05
-  },
-  {
-    img:design11
+    img:design07
   },
   {
     img:design06
   },
   {
+    img:design05
+  },
+  {
+    img:design04
+  },
+  {
+    img:design03
+  },
+  {
+    img:design11
+  },
+  {
+    img:design02
+  },
+  {
     img:design01
+  },
+  {
+    img:design06
+  },
+  {
+    img:design09
   },
  
 ];
