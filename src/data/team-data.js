@@ -40,7 +40,7 @@ export const teamData = [
   {
     img: "/img/team-3.jpg",
     name: "Alexa Smith",
-    position: "UI/UX Designer",
+    position: "UI/UX designr",
     socials: [
       {
         color: "light-blue",

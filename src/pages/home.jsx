@@ -11,6 +11,7 @@ import ChartBox from "@/widgets/cards/chart-box";
 import {AiFillHeart} from "react-icons/ai"
 import Product_card from "@/widgets/cards/product-card";
 import Product_data from "@/data/product-data";
+import design from "../../public/img/maindesignpack.svg"
 export function Home() {
   const [activeTabIndex, setActiveTabIndex] = useState(0);
   return (
@@ -19,11 +20,7 @@ export function Home() {
         <div className="flex flex-col w-full px-4 justify-center items-center ">
           <div className="flex flex-col items-center">
             <Card color="transparent" shadow={false} className="text-center">
-              <Avatar
-                src="../../public/img/maindesignpack.svg"
-                size="xxl"
-                className="h-full w-full shadow-lg shadow-gray-500/25"
-              />
+              <img src={design} alt="..."/>
               <Typography variant="h3" color="black" className="my-2">
               Design Packages
               </Typography>
